@@ -51,15 +51,21 @@
 
 <p align="center"><img src="https://files.catbox.moe/cuay94.png" style="width: 50vw;min-width: 10px;" /></p>
 
+<p align="center"> I'm very ${{\color{cyan}{\texttt{happily taken}}}}$!! < <a href="https://github.com/orion16-4ever">my sweet boy</a> 3 ,, ${{\color{cyan}{\texttt{5}}}}$ / ${{\color{blue}{\texttt{9}}}}$ / ${{\color{blue}{\texttt{25}}}}$
+
 <img src="https://files.catbox.moe/vzylqg.png" style="width: 6vw;min-height: 6px;" />We want to share this openly from the start to make future interactions with new friends less awkward.
 
-As neurodivergent individuals, we live with significant mental health disabilities. We specifically experience DID and quite a few suspecting co-morbid disorders which profoundly shapes how we live every single day.
-
-Due to our disorder, we frequently struggle with poor memory, mild emotional instability, and more. On top of this we still live with our abusers. Therefore, we ask that you always approach us with caution and care.
+I don't have a dni, but I own every right to block whoever I want. Just remember that I am a minor. That means don't be weird. I'm not easily persuadable, I'm not stupid.
 
 Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
 
-   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` This includes almost everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc.  While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is **still ongoing**. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based. .ᐟ. </div>
+Endogenic systems are on thin ice. This includes everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc. While we understand why some might believe they are an endogenic system, please approach us with caution. Claiming to be endogenic for personal gain is not something we condone. The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is still ongoing. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based. 
+
+ I'm mentally unwell with no way of getting help, please be patient.
+
+ WERE CHILL!!! PLEASEE TALK TO US. were, for the most part, very social. ill likely talk to you first. <img src="https://files.catbox.moe/lg65zz.png" style="width: 6vw;min-width: 6px;" />
+ 
+ </div>
 <p align="center"><img src="https://files.catbox.moe/yzszkh.png" style="width: 20vw;min-width: 10px;" /></p>
   &nbsp;</kbd>
 

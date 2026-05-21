@@ -1,3 +1,5 @@
+<!-- sorry for how sloppy the code is, i'm still learning html-css and barely stepping into javascript -->
+
 <p align="center"><img src="https://i.postimg.cc/Z5K5GfpS/image.png" style="width: 39vw;min-width: 10px;" /></p>
 <p align="center"> ${{\color{blue}{\texttt{"𝑰𝒏 𝒕𝒉𝒆 𝒒𝒖𝒊𝒆𝒕 𝒔𝒉𝒊𝒎𝒎𝒆𝒓 𝒐𝒇 𝒘𝒉𝒂𝒕 𝒐𝒏𝒄𝒆 𝒘𝒂𝒔,}}}}$ </p>
 <p align="center"> ${{\color{cyan}{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
@@ -46,12 +48,14 @@
   ${{\color{cyan}{\texttt{artist in several fields, writer, animator, editor and entry-level HTML-CSS web developer/designer. (all self-taught)}}}}$ // ${{\color{blue}{\texttt{highly suspected MDD + C-PTSD}}}}$
   <br>
 <hr>
-
+<!-- WOW,,,, IGNORE THE GIANT BLOCK OF INVISIBLE LETTERS THE THING IS LITERALLY IMPOSSIBLE TO WORK WITH -->
 <div align="center">
 
 <p align="center"><img src="https://files.catbox.moe/cuay94.png" style="width: 50vw;min-width: 10px;" /></p>
 
-<img src="https://files.catbox.moe/vzylqg.png" style="width: 6vw;min-height: 6px;" /> ${{\color{cyan}{\texttt{We want to share this openly from the start to make future interactions with new friends less awkward.}}}}$
+<p align="center"> I'm very ${{\color{cyan}{\texttt{happily taken}}}}$!! < <a href="https://github.com/orion16-4ever">my sweet boy</a> 3 ,, ${{\color{cyan}{\texttt{5}}}}$ / ${{\color{blue}{\texttt{9}}}}$ / ${{\color{cyan}{\texttt{25}}}}$ </p>
+
+<img src="https://files.catbox.moe/vzylqg.png" style="width: 6vw;min-height: 6px;" alt="text" /> ${{\color{cyan}{\texttt{We want to share this openly from the start to make future interactions with new friends less awkward.}}}}$
 
 I don't have a dni, but I own every right to block whoever I want. Just remember that I am a minor. That means don't be weird. I'm not easily persuadable, I'm not stupid.
 
@@ -61,7 +65,9 @@ Endogenic systems are on thin ice. This includes everything under the Endogenic 
 
  ${{\color{cyan}{\texttt{I'm mentally unwell with no way of getting help, please be patient.}}}}$
 
- WERE CHILL!!! PLEASEE TALK TO US. were, for the most part, very social. ill likely talk to you first. <img src="https://files.catbox.moe/lg65zz.png" style="width: 6vw;min-width: 6px;" />
+ WERE CHILL!!! PLEASEE TALK TO US. were, for the most part, very social. ill likely talk to you first. WE DONT BITE!!! we love love LOVE making new friends. mcsm fans especially interact :eyes:
+
+ <p align="right"><img src="https://files.catbox.moe/lg65zz.png" style="width: 6vw;min-width: 6px;" alt="text" /></p>
 
  <p align="center"><img src="https://files.catbox.moe/f8o0od.png" style="width: 30vw;min-width: 10px;" /></p>
 
@@ -82,7 +88,7 @@ Endogenic systems are on thin ice. This includes everything under the Endogenic 
 <p align="center"><img src="https://files.catbox.moe/ux09jt.png" style="width: 8vw;min-width: 8px;" />
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
      width="550" 
-     height="150" /><img src="https://files.catbox.moe/k08h4i.png" style="width: 8vw;min-width: 8px;" /></p>
+     height="150" /><img src="https://files.catbox.moe/k08h4i.png" style="width: 8vw;min-width: 8px;" alt= "You're a good friend, Lukas. The fact that you're always thinking about others... It says a lot." /> </p>
 
 <p align="center">
 whats currently playing on ${{\color{blue}{\texttt{Spotify}}}}$

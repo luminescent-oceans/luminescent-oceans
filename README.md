@@ -51,8 +51,6 @@
 
 <p align="center"><img src="https://files.catbox.moe/cuay94.png" style="width: 50vw;min-width: 10px;" /></p>
 
-<p align="center"> I'm very ${{\color{cyan}{\texttt{happily taken}}}}$!! < <a href="https://github.com/orion16-4ever">my sweet boy</a> 3 ,, ${{\color{cyan}{\texttt{5}}}}$ / ${{\color{blue}{\texttt{9}}}}$ / ${{\color{cyan}{\texttt{25}}}}$
-
 <img src="https://files.catbox.moe/vzylqg.png" style="width: 6vw;min-height: 6px;" /> ${{\color{cyan}{\texttt{We want to share this openly from the start to make future interactions with new friends less awkward.}}}}$
 
 I don't have a dni, but I own every right to block whoever I want. Just remember that I am a minor. That means don't be weird. I'm not easily persuadable, I'm not stupid.

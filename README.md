@@ -2,6 +2,8 @@
 <p align="center"> ${{\color{blue}{\texttt{"𝑰𝒏 𝒕𝒉𝒆 𝒒𝒖𝒊𝒆𝒕 𝒔𝒉𝒊𝒎𝒎𝒆𝒓 𝒐𝒇 𝒘𝒉𝒂𝒕 𝒐𝒏𝒄𝒆 𝒘𝒂𝒔,}}}}$ </p>
 <p align="center"> ${{\color{cyan}{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
 
+<p align="center"><img src="https://files.catbox.moe/hy2mi1.png" style="width: 25vw;min-width: 10px;" /></p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff"/>
 </p>
 <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://i.postimg.cc/V6Qh0kqx/image.png"style="width: 10vw; min-width: 10px;" />   <a href="https://luminescent-oceans.carrd.co/#"><img src="https://i.postimg.cc/cJY9WGpz/image.png"style="width: 10vw; min-width: 10px;" />
@@ -45,6 +47,8 @@
 
 <div align="center">
 
+<p align="center"><img src="https://files.catbox.moe/cuay94.png" style="width: 50vw;min-width: 10px;" /></p>
+
 We want to share this openly from the start to make future interactions with new friends less awkward.
 
 As neurodivergent individuals, we live with significant mental health disabilities. We specifically experience DID and quite a few suspecting co-morbid disorders which profoundly shapes how we live every single day.
@@ -55,6 +59,7 @@ Please do not refer to our 'fictives' as fictives. Please call us introjects. Th
 
    ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` This includes almost everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc.  While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is **still ongoing**. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based. .ᐟ. </div>
 
+<p align="center"><img src="https://files.catbox.moe/yzszkh.png" style="width: 20vw;min-width: 10px;" /></p>
   &nbsp;</kbd>
 
   <p align="center"><img src="https://i.postimg.cc/YS3FYXYr/image.png" style="width: 39vw;min-height: 100px;" /></p>
@@ -72,6 +77,4 @@ Please do not refer to our 'fictives' as fictives. Please call us introjects. Th
 <p align="center">
 whats currently playing on spotify
 </p>
-
-NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL I LOVE NELL  ILOVE NELL NELL NLLNLLE BJHQWEJOQIWUHSAYUAYA AYNENLE  NELL NELL NELL ENENELNEEN NELMNEL ENELL NELL NELL NELL :eyes:
 <p align="center"><img src="https://i.postimg.cc/2jZBk8yL/image.png" style="width: 39vw;min-height: 39px;" /></p>

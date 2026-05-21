@@ -11,7 +11,7 @@
 <p align="center">socials</p>
 <p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://i.postimg.cc/76Bw3zKv/image.png" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://i.postimg.cc/9MNHRhfy/image.png" style="width:4vw;min-height:4px;"/> <a href="https://archiveofourown.org/users/luminescentoceans/profile"><img src="https://i.postimg.cc/T1V8kW91/image.png" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://i.postimg.cc/d1c45NSS/image.png" style=width:4vw;min-height:4px;"/> <a href="https://luminescent-oceans.straw.page/"><img src="https://i.postimg.cc/8PcBmVzT/image.png" style=width:4vw;min-height:4px;"/> </p>
      
-<p align="center"> luminescent.oceans ${{\color{blue}{\texttt{OR}}}}$ luminescent-oceans ${{\color{blue}{\texttt{almost everywhere}}}}$ </p>
+<p align="center"> ${{\color{cyan}{\texttt{luminescent.oceans}}}}$ ${{\color{blue}{\texttt{OR}}}}$ ${{\color{cyan}{\texttt{luminescent-oceans}}}}$ ${{\color{blue}{\texttt{almost everywhere}}}}$ </p>
 
 <div align="center">
 <table border="2">
@@ -53,20 +53,24 @@
 
 <p align="center"> I'm very ${{\color{cyan}{\texttt{happily taken}}}}$!! < <a href="https://github.com/orion16-4ever">my sweet boy</a> 3 ,, ${{\color{cyan}{\texttt{5}}}}$ / ${{\color{blue}{\texttt{9}}}}$ / ${{\color{blue}{\texttt{25}}}}$
 
-<img src="https://files.catbox.moe/vzylqg.png" style="width: 6vw;min-height: 6px;" />We want to share this openly from the start to make future interactions with new friends less awkward.
+<img src="https://files.catbox.moe/vzylqg.png" style="width: 6vw;min-height: 6px;" /> ${{\color{cyan}{\texttt{We want to share this openly from the start to make future interactions with new friends less awkward.}}}}$
 
 I don't have a dni, but I own every right to block whoever I want. Just remember that I am a minor. That means don't be weird. I'm not easily persuadable, I'm not stupid.
 
-Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
+${{\color{cyan}{\texttt{Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.}}}}$
 
 Endogenic systems are on thin ice. This includes everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc. While we understand why some might believe they are an endogenic system, please approach us with caution. Claiming to be endogenic for personal gain is not something we condone. The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is still ongoing. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based. 
 
- I'm mentally unwell with no way of getting help, please be patient.
+ ${{\color{cyan}{\texttt{I'm mentally unwell with no way of getting help, please be patient.}}}}$
 
  WERE CHILL!!! PLEASEE TALK TO US. were, for the most part, very social. ill likely talk to you first. <img src="https://files.catbox.moe/lg65zz.png" style="width: 6vw;min-width: 6px;" />
+
+ <p align="center"><img src="https://files.catbox.moe/f8o0od.png" style="width: 30vw;min-width: 10px;" /></p>
+
+ #1 ${{\color{cyan}{\texttt{mcsm}}}}$ fan ${{\color{cyan}{\texttt{TRUST!!!}}}}$ // we have watched ${{\color{blue}{\texttt{7}}}}$ playthroughs ${{\color{cyan}{\texttt{,}}}}$ watched those playthroughs over ${{\color{blue}{\texttt{15}}}}$ times (i have <a href="https://youtu.be/phvLgiKENF4?si=QbGANT968FX8pWRC">a preference</a> ${{\color{cyan}{\texttt{,}}}}$ read the <a href="https://en.wikipedia.org/wiki/Minecraft:_Story_Mode">Wikipedia</a> page ${{\color{blue}{\texttt{twice}}}}$ ${{\color{cyan}{\texttt{,}}}}$ own the complete adventure ${{\color{blue}{\texttt{and}}}}$ season 2 discs for our xbox 360 (working on getting more) ${{\color{cyan}{\texttt{,}}}}$ been watching ${{\color{blue}{\texttt{since 2017}}}}$ ${{\color{cyan}{\texttt{,}}}}$ gotten ${{\color{blue}{\texttt{3}}}}$ friends into it ${{\color{cyan}{\texttt{,}}}}$ ${{\color{blue}{\texttt{4}}}}$ including my boyfriend... hi boyfriend ${{\color{cyan}{\texttt{,}}}}$ played it every day for ${{\color{blue}{\texttt{8 hours straight}}}}$ every a day in 2017 on Netflix (RIP mcsm Netflix interactive) ${{\color{cyan}{\texttt{,}}}}$ working on an Admin Wins AU ${{\color{cyan}{\texttt{,}}}}$ um,,,ill add more when i think of them bye,,we like mcsm a lot
  
  </div>
-<p align="center"><img src="https://files.catbox.moe/yzszkh.png" style="width: 20vw;min-width: 10px;" /></p>
+<p align="center"><img src="https://files.catbox.moe/yzszkh.png" style="width: 40vw;min-width: 0px;" /></p>
   &nbsp;</kbd>
 
   <p align="center"><img src="https://i.postimg.cc/YS3FYXYr/image.png" style="width: 39vw;min-height: 100px;" /></p>

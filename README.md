@@ -51,7 +51,7 @@
 
 <p align="center"><img src="https://files.catbox.moe/cuay94.png" style="width: 50vw;min-width: 10px;" /></p>
 
-We want to share this openly from the start to make future interactions with new friends less awkward.
+<img src="https://files.catbox.moe/vzylqg.png" style="width: 6vw;min-height: 6px;" />We want to share this openly from the start to make future interactions with new friends less awkward.
 
 As neurodivergent individuals, we live with significant mental health disabilities. We specifically experience DID and quite a few suspecting co-morbid disorders which profoundly shapes how we live every single day.
 
@@ -60,7 +60,6 @@ Due to our disorder, we frequently struggle with poor memory, mild emotional ins
 Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
 
    ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` This includes almost everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc.  While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is **still ongoing**. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based. .ᐟ. </div>
-
 <p align="center"><img src="https://files.catbox.moe/yzszkh.png" style="width: 20vw;min-width: 10px;" /></p>
   &nbsp;</kbd>
 
@@ -72,11 +71,12 @@ Please do not refer to our 'fictives' as fictives. Please call us introjects. Th
 </p>
    </div>
   
-<p align="center">
+<p align="center"><img src="https://files.catbox.moe/ux09jt.png" style="width: 10vw;min-width: 10px;" />
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
      width="550" 
-     height="150" /> </p>
+     height="150" /><img src="https://files.catbox.moe/k08h4i.png" style="width: 10vw;min-width: 10px;" /></p>
+
 <p align="center">
-whats currently playing on spotify
+whats currently playing on ${{\color{blue}{\texttt{Spotify}}}}$
 </p>
 <p align="center"><img src="https://i.postimg.cc/2jZBk8yL/image.png" style="width: 39vw;min-height: 39px;" /></p>

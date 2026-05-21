@@ -81,10 +81,10 @@ Endogenic systems are on thin ice. This includes everything under the Endogenic 
 </p>
    </div>
   
-<p align="center"><img src="https://files.catbox.moe/ux09jt.png" style="width: 10vw;min-width: 10px;" />
+<p align="center"><img src="https://files.catbox.moe/ux09jt.png" style="width: 8vw;min-width: 8px;" />
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
      width="550" 
-     height="150" /><img src="https://files.catbox.moe/k08h4i.png" style="width: 10vw;min-width: 10px;" /></p>
+     height="150" /><img src="https://files.catbox.moe/k08h4i.png" style="width: 8vw;min-width: 8px;" /></p>
 
 <p align="center">
 whats currently playing on ${{\color{blue}{\texttt{Spotify}}}}$

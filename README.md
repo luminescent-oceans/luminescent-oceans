@@ -10,6 +10,8 @@
 </p>
 <p align="center">socials</p>
 <p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://i.postimg.cc/76Bw3zKv/image.png" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://i.postimg.cc/9MNHRhfy/image.png" style="width:4vw;min-height:4px;"/> <a href="https://archiveofourown.org/users/luminescentoceans/profile"><img src="https://i.postimg.cc/T1V8kW91/image.png" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://i.postimg.cc/d1c45NSS/image.png" style=width:4vw;min-height:4px;"/> <a href="https://luminescent-oceans.straw.page/"><img src="https://i.postimg.cc/8PcBmVzT/image.png" style=width:4vw;min-height:4px;"/> </p>
+     
+<p align="center"> luminescent.oceans ${{\color{blue}{\texttt{OR}}}}$ luminescent-oceans ${{\color{blue}{\texttt{almost everywhere}}}}$ </p>
 
 <div align="center">
 <table border="2">
@@ -63,7 +65,7 @@ Please do not refer to our 'fictives' as fictives. Please call us introjects. Th
   &nbsp;</kbd>
 
   <p align="center"><img src="https://i.postimg.cc/YS3FYXYr/image.png" style="width: 39vw;min-height: 100px;" /></p>
-  <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Wings}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$ ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ ${{\color{cyan}{\texttt{Halo}}}}$ ${{\color{blue}{\texttt{The Electric State}}}}$ ${{\color{cyan}{\texttt{The Summer Hikaru Died}}}}$
+  <p align="center"> <kbd>${{\color{blue}{\texttt{Minecraft Story Mode}}}}$ ${{\color{cyan}{\texttt{Transformers}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Wings}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$ ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ ${{\color{cyan}{\texttt{Halo}}}}$ ${{\color{blue}{\texttt{The Electric State}}}}$ ${{\color{cyan}{\texttt{The Summer Hikaru Died}}}}$
             <br>
 <hr>
   &nbsp;</kbd>

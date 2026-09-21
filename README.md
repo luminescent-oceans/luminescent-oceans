@@ -1,7 +1,7 @@
 <!-- sorry for how sloppy the code is, i'm still learning html-css and barely stepping into javascript -->
 
 <p align="center">socials</p>
-<p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://i.postimg.cc/76Bw3zKv/image.png" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://i.postimg.cc/9MNHRhfy/image.png" style="width:4vw;min-height:4px;"/> <a href="https://archiveofourown.org/users/luminescentoceans/profile"><img src="https://i.postimg.cc/T1V8kW91/image.png" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://i.postimg.cc/d1c45NSS/image.png" style=width:4vw;min-height:4px;"/> <a href="https://luminescent-oceans.straw.page/"><img src="https://i.postimg.cc/8PcBmVzT/image.png" style=width:4vw;min-height:4px;"/><a href="https://www.xbox.com/en-US/play/user/LumiOceans9715"><img src="https://i.postimg.cc/TwkpGYHh/Untitled458-20260604064301.png" style=width:4vw;min-height:4px;"/> </p>
+<p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://i.postimg.cc/76Bw3zKv/image.png" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://i.postimg.cc/9MNHRhfy/image.png" style="width:4vw;min-height:4px;"/> <a href="https://archiveofourown.org/users/luminescentoceans/profile"><img src="https://i.postimg.cc/T1V8kW91/image.png" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://i.postimg.cc/d1c45NSS/image.png" style=width:4vw;min-height:4px;"/> <a href="https://luminescent-oceans.straw.page/"><img src="https://i.postimg.cc/8PcBmVzT/image.png" style=width:4vw;min-height:4px;"/><a href="https://www.xbox.com/en-US/play/user/LumiOceans9715"><img src="https://i.postimg.cc/TwkpGYHh/Untitled458-20260604064301.png" style=width:4vw;min-height:4px;"/> <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://i.postimg.cc/V6Qh0kqx/image.png"style="width: 7vw; min-width: 7px;" />   <a href="https://luminescent-oceans.carrd.co/#"><img src="https://i.postimg.cc/cJY9WGpz/image.png"style="width: 7vw; min-width: 7px;" /> </p>
    
 <p align="center">　﹒ 　 $\color{blue}{\textsf{he / they / xe / pup / ask}}$ $\color{cyan}{\textsf{　　﹒　　6teen　　୧　　₊　　}}$ $\color{blue}{\textsf{self-suspecting sys}}$
 $\color{cyan}{\textsf{ iwec at all times ,, I’m very unwell with no way of getting help, please be patient}}$ $\color{white}{\textsf{ ✦ }}$ $\color{blue}{\textsf{I have a hard time reading most fonts and typing quirks. Don't expect me to reply if you don't provide a translation for your typing quirk.}}$
@@ -54,7 +54,7 @@ Endogenic systems are on thin ice. This includes everything under the Endogenic 
 
 <img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:28vw;min-height:28px;"/>
 
-<p align="center"> 　﹕　Jonesy ♡ Jones yume ( Fortnite , Romantic , Sharing )　.ㅤㅤ　Master Chief yume ( Halo , Familial , Sharing )　﹕　 </p>
+<p align="center"> 　﹕　Jonesy ${{\color{cyan}{\texttt{♡}}}}$ Jones ${{\color{cyan}{\texttt{yume}}}}$ ( Fortnite , Romantic , Sharing )　.ㅤㅤ　Master Chief ${{\color{blue}{\texttt{yume}}}}$ ( Halo , Familial , Sharing )　﹕　 </p>
 
  <p align="center"> <img src="https://i.postimg.cc/jSfB776Z/1000022323.webp" style="width:8vw;min-height:8px; title="currently playing on spotify" /> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://i.postimg.cc/k5Wrkhj9/1000022326.webp" style="width:8vw;min-height:8px;"/>
 

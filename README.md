@@ -25,7 +25,7 @@ $\color{blue}{\textsf{ ‎ (all self-taught)}}$<br>
 $\color{white}{\textsf{we also get severely paranoid}}$<br>
 $\color{white}{\textsf{please be cautious}}$</h6>
 
-<img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:28vw;min-height:28px;"/>
+<img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:26vw;min-height:26px;"/>
 
 $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ INTERESTS }}$ 
   

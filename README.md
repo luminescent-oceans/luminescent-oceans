@@ -19,7 +19,7 @@ $\color{blue}{\textsf{ ‎ (all self-taught)}}$<br>
 
 <h4 align="right"> <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" style="width: 20vw;min-width: 20px;" title="currently playing on spotify" />
 
-   <img src="https://i.postimg.cc/Y2GK10Hd/1000022365.png" width="50%" align="left"/>
+   <img src="https://i.postimg.cc/Y2GK10Hd/1000022365.png" width="47%" align="left"/>
 
 <h6 align="center">$\color{white}{\textsf{highly suspected C-PTSD and AuDHD}}$<br>
 $\color{white}{\textsf{we also get severely paranoid}}$<br>

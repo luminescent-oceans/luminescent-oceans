@@ -24,11 +24,12 @@ $\color{blue}{\textsf{ ‎ (all self-taught)}}$<br>
 <h6 align="center">$\color{white}{\textsf{highly suspected C-PTSD and AuDHD}}$<br>
 $\color{white}{\textsf{we also get severely paranoid}}$<br>
 $\color{white}{\textsf{please be cautious}}$</h6>
+
 <img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:24vw;min-height:24px;"/>
 
 $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ INTERESTS }}$ 
   
-${{\color{cyan}{\texttt{Fortnite}}}}$ , ${{\color{blue}{\texttt{Minecraft Story Mode}}}}$ , ${{\color{cyan}{\texttt{Transformers}}}}$ , ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ , ${{\color{cyan}{\texttt{Bugs}}}}$ , ${{\color{blue}{\texttt{Wings}}}}$ , ${{\color{cyan}{\texttt{Xbox 360}}}}$ , ${{\color{blue}{\texttt{Music}}}}$ , ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ , ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ , ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ , ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ , ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ , ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ , ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ , ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ , ${{\color{cyan}{\texttt{Halo}}}}$ , ${{\color{blue}{\texttt{The Electric State}}}}$ , ${{\color{cyan}{\texttt{Lord of the Rings}}}}$ , ${{\color{blue}{\texttt{Pixels (2015 Film)}}}}$ </div>
+<h4 align="right">${{\color{cyan}{\texttt{Fortnite}}}}$ , ${{\color{blue}{\texttt{Minecraft Story Mode}}}}$ , ${{\color{cyan}{\texttt{Transformers}}}}$ , ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ , ${{\color{cyan}{\texttt{Bugs}}}}$ , ${{\color{blue}{\texttt{Wings}}}}$ , ${{\color{cyan}{\texttt{Xbox 360}}}}$ , ${{\color{blue}{\texttt{Music}}}}$ , ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ , ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ , ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ , ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ , ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ , ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ , ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ , ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ , ${{\color{cyan}{\texttt{Halo}}}}$ , ${{\color{blue}{\texttt{The Electric State}}}}$ , ${{\color{cyan}{\texttt{Lord of the Rings}}}}$ , ${{\color{blue}{\texttt{Pixels (2015 Film)}}}}$ </div> </h4>
 <div align="center">
 <table>
 <tr>

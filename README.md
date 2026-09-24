@@ -1,5 +1,7 @@
 <!-- sorry for how sloppy the code is, i'm still learning html-css and barely stepping into javascript -->
 
+<p align="center">⚠️  ${{\color{yellow}{\texttt{I did this on a 32'' ( 2 foot and 8 inch ) monitor, forgive me if anything looks weird on devices with smaller screens. (I have an LG Ultrafine 6K 32'')}}}}$ ⚠️</p>
+
 <p align="center">socials</p>
 <p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://i.postimg.cc/76Bw3zKv/image.png" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://i.postimg.cc/9MNHRhfy/image.png" style="width:4vw;min-height:4px;"/> <a href="https://archiveofourown.org/users/luminescentoceans/profile"><img src="https://i.postimg.cc/T1V8kW91/image.png" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://i.postimg.cc/d1c45NSS/image.png" style=width:4vw;min-height:4px;"/> <a href="https://luminescent-oceans.straw.page/"><img src="https://i.postimg.cc/8PcBmVzT/image.png" style=width:4vw;min-height:4px;"/><a href="https://www.xbox.com/en-US/play/user/LumiOceans9715"><img src="https://i.postimg.cc/TwkpGYHh/Untitled458-20260604064301.png" style=width:4vw;min-height:4px;"/> <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://i.postimg.cc/V6Qh0kqx/image.png"style="width: 7vw; min-width: 7px;" />   <a href="https://luminescent-oceans.carrd.co/#"><img src="https://i.postimg.cc/cJY9WGpz/image.png"style="width: 7vw; min-width: 7px;" /> </p>
    

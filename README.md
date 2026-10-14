@@ -54,12 +54,13 @@ $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎
 
 I an uncomfortable with rpf/real person fiction yumes. I don't want to, nor will I interact with rpf content / yumes. You will be blocked.
 
-Darkshippers, the ones I see around the protree in Pony Town are mostly adults. The fact you're an adult and shipping children with adults or animals with people is fucking disgusting and I will never condone it whatsoever. It's sad that I, a minor, know it's wrong, grow the fuck up. If you have a paraphilia keep it to yourself and seek therapy, don't put it out on the fucking internet, it's common sense. Don't interact with me at all. You will be blocked, reported and humiliated. You're all disgusting coping mechanism or not.
-Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or whatever the fuck you all have going on. I've had nothing but bad experiences with Radqueers. Stop faking disorders and pretending to be a different race, etc. It's weird, grow the fuck up.
-
 Please do not refer to our ’fictives’ as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
 
 Endogenic systems are on thin ice. This includes everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc. While we understand why some might believe they are an endogenic system, please approach us with caution. Claiming to be endogenic for personal gain is not something we condone. The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is still ongoing. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based.
+
+
+Darkshippers, the ones I see around the protree in Pony Town are mostly adults. The fact you're an adult and shipping children with adults or animals with people is fucking disgusting and I will never condone it whatsoever. It's sad that I, a minor, know it's wrong, grow the fuck up. If you have a paraphilia keep it to yourself and seek therapy, don't put it out on the fucking internet, it's common sense. Don't interact with me at all. You will be blocked, reported and humiliated. You're all disgusting coping mechanism or not.
+Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or whatever the fuck you all have going on. I've had nothing but bad experiences with Radqueers. Stop faking disorders and pretending to be a different race, etc. It's weird, grow the fuck up. You all piss me off.
 </table> </br>
 
 <img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:28vw;min-height:28px;"/>

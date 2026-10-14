@@ -1,7 +1,6 @@
 <!-- sorry for how sloppy the code is, i'm still learning html-css and barely stepping into javascript -->
 
-<p align="center">⚠️  ${{\color{yellow}{\texttt{I did this on a 32'' ( 2 foot and 8 inch ) monitor, forgive me if anything looks weird on devices with smaller screens.}}}}$
- ${{\color{yellow}{\texttt{( I have an }}}}$ <a href="https://www.bestbuy.com/product/lg-32-ultrafine-evo-6k-nano-ips-black-professional-monitor-with-displayhdr-600-thunderbolt-5-hdmi-displayport-usb-c-silver/JJ8VPZKRFK/sku/6641768?utm_source=feed&extStoreId=&ref=212&loc=18419679266&gclsrc=aw.ds&gad_source=1&gad_campaignid=18416671090&gbraid=0AAAAAD-ORIhMB7BWqpEITG3Rifp7PERuK&gclid=EAIaIQobChMIkLnOvNiGlwMVYGBHAR35kiW9EAQYASABEgKv__D_BwE">LG 32” UltraFine evo 6K</a> ${{\color{yellow}{\texttt{ :sob: )}}}}$ ⚠️</p>
+<p align="center">⚠️  ${{\color{yellow}{\texttt{I did this on a 32'' ( 2 foot and 8 inch ) monitor, forgive me if anything looks weird on devices with smaller screens.}}}}$ ⚠️</p>
 
 <p align="center"><img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:28vw;min-height:28px;"/></p>
 

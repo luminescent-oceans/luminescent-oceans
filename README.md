@@ -28,7 +28,9 @@ $\color{blue}{\textsf{ ‎ (all self-taught)}}$<br>
 <h6 align="center">$\color{white}{\textsf{highly suspected C-PTSD, AuDHD, CMVTD (motor),}}$<br>
 $\color{white}{\textsf{and DID}}$<br>
 $\color{white}{\textsf{we also get severely paranoid}}$<br>
-$\color{white}{\textsf{please be cautious}}$</h6>
+$\color{white}{\textsf{please be cautious}}$<br>
+$\color{blue}{\textsf{we are in no position to get diagnosed with anything}}$<br>
+$\color{blue}{\textsf{due to our living conditions (medically neglectful parents)}}$</h6>
 
 <img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:24vw;min-height:24px;"/>
 

@@ -51,6 +51,7 @@ $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎
 - - -
 
 <div align="center">
+Because our tics mainly involve repetitive movements in the neck, shoulders, and chest, they can become physically painful at times. Please be patient.
 
 I an uncomfortable with rpf/real person fiction yumes. I don't want to, nor will I interact with rpf content / yumes. You will be blocked.
 

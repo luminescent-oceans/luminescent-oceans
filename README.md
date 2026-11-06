@@ -25,7 +25,8 @@ $\color{blue}{\textsf{ ‎ (all self-taught)}}$<br>
 
    <img src="https://i.postimg.cc/Y2GK10Hd/1000022365.png" width="47%" align="left"/>
 
-<h6 align="center">$\color{white}{\textsf{highly suspected C-PTSD and AuDHD}}$<br>
+<h6 align="center">$\color{white}{\textsf{highly suspected C-PTSD, AuDHD, CMVTD (motor),}}$<br>
+$\color{white}{\textsf{and DID}}$<br>
 $\color{white}{\textsf{we also get severely paranoid}}$<br>
 $\color{white}{\textsf{please be cautious}}$</h6>
 

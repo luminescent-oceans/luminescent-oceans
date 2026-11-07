@@ -9,7 +9,8 @@
 <a href="https://luminescentoceans.atabook.org/">SIGN MY ATABOOK! (no button for it yet + returning after 8 months)</a></p>
    
 <p align="center">　﹒ 　 $\color{blue}{\textsf{he / they / xe / pup / wing / ask}}$ $\color{cyan}{\textsf{　　﹒　　6teen　　୧　　₊　　}}$ $\color{blue}{\textsf{self-suspecting sys}}$
-$\color{cyan}{\textsf{ iwec at all times ,, I’m very unwell with no way of getting help, please be patient}}$ $\color{white}{\textsf{ ✦ }}$ $\color{blue}{\textsf{I have a hard time reading most fonts and typing quirks. Don't expect me to reply if you don't provide a translation for your typing quirk upon asking.}}$
+$\color{cyan}{\textsf{ iwec at all times ,, I’m very unwell with no way of getting help, please be patient}}$ $\color{white}{\textsf{ ✦ }}$ $\color{blue}{\textsf{I have a hard time reading most fonts and typing quirks.}}$
+$\color{blue}{\textsf{Don't expect me to reply if you don't provide a translation for your typing quirk upon asking.}}$
 <p align="center">$\color{cyan}{\textsf{ 　　I don't have a dni, but I own every right to block whoever I want　　  }}$
 <p align="center">$\color{white}{\textsf{ ✦ }}$ 
 $\color{white}{\textsf{ ✦ }}$ 

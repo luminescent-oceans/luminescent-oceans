@@ -23,7 +23,8 @@ $\color{white}{\textsf{ ✦ }}$
 $\color{cyan}{\textsf{ ‎ and entry-level HTML-CSS web designer.}}$<br>
 $\color{blue}{\textsf{ ‎ (all self-taught)}}$<br>
 
-<h4 align="right"> <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" style="width: 20vw;min-width: 20px;" title="currently playing on spotify" />
+<h4 align="right"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=00d5ff&bar_color_cover=true" style="width: 20vw;min-width: 20px;" title="currently playing on spotify" />
 
    <img src="https://i.postimg.cc/Y2GK10Hd/1000022365.png" width="47%" align="left"/>
 

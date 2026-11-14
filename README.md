@@ -70,7 +70,7 @@ Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or wha
 
 <p align="center"> 　﹕　Jonesy ${{\color{#FFADC6}{\texttt{♡}}}}$ Jones ${{\color{#FFADC6}{\texttt{yume}}}}$ ( Fortnite , Romantic , Sharing )　.ㅤㅤ　Master Chief ${{\color{#FFD5D4}{\texttt{yume}}}}$ ( Halo , Familial , Sharing )　﹕　 </p>
 
- <p align="center"> <img src="https://i.postimg.cc/jSfB776Z/1000022323.webp" style="width:8vw;min-height:8px; title="currently playing on spotify" /> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://i.postimg.cc/k5Wrkhj9/1000022326.webp" style="width:8vw;min-height:8px;"/>
+ <p align="center"> <img src="https://github.com/user-attachments/assets/0afa43c5-a8df-4bb5-9701-ae312addaa76" style="width:8vw;min-height:8px; title="currently playing on spotify" /> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://github.com/user-attachments/assets/6277e0fa-25d5-4afd-96e7-f4615f2cf6ba" style="width:8vw;min-height:8px;"/>
 
 
 ---

@@ -24,7 +24,7 @@ $\color{#59448B}{\textsf{ ‎ (all self-taught)}}$<br>
 
 <h4 align="right"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=false&mode=dark&bar_color=FF829B&bar_color_cover=true" style="width: 20vw;min-width: 20px;" title="currently playing on spotify"/> </a>
 
-   <img src="https://i.postimg.cc/Y2GK10Hd/1000022365.png" width="47%" align="left"/>
+<img src="https://github.com/user-attachments/assets/98679319-f4cf-4a3a-8958-b5f918ea0231" width="47%" align="left"/>
 
 <h6 align="center">$\color{white}{\textsf{highly suspected}}$ $\color{#FF7D73}{\textsf{C-PTSD}}$, $\color{#FFB073}{\textsf{AuDHD}}$, $\color{#FFDC73}{\textsf{CMVTD (motor),}}$ $\color{white}{\textsf{and}}$ $\color{#73FFAC}{\textsf{DID}}$<br>
 $\color{white}{\textsf{we also get severely paranoid}}$<br>

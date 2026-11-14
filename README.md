@@ -1,6 +1,7 @@
 <!-- sorry for how sloppy the code is, i'm still learning html-css and barely stepping into javascript -->
 
 <p align="center">⚠️  ${{\color{yellow}{\texttt{I did this on a 32''}}}}$ ${{\color{yellow}{\texttt{( 2 foot and 8 inch ) monitor, forgive me if}}}}$ ${{\color{yellow}{\texttt{anything looks weird on devices with smaller screens.}}}}$ ⚠️</p>
+<p align="center">  ${{\color{yellow}{\texttt{This was not meant to be viewed on Light mode or on Mobile}}}}$ </p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/86fbecc0-6111-4463-a220-9d56c916aa0a" style="width:28vw;min-height:28px;"/></p>
 

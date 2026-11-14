@@ -1,120 +1,76 @@
-<!-- sorry for how sloppy the code is, i'm still learning html-css and barely stepping into javascript -->
 
-<p align="center">⚠️  ${{\color{yellow}{\texttt{I did this on a 32''}}}}$ ${{\color{yellow}{\texttt{( 2 foot and 8 inch ) monitor, forgive me if}}}}$ ${{\color{yellow}{\texttt{anything looks weird on devices with smaller screens.}}}}$ ⚠️</p>
-<p align="center">  ${{\color{yellow}{\texttt{This was not meant to be viewed on Light mode or on Mobile}}}}$ </p>
 
-<p align="center"><img src="https://github.com/user-attachments/assets/86fbecc0-6111-4463-a220-9d56c916aa0a" style="width:28vw;min-height:28px;"/></p>
+<p align="center"> ⋅⋅ ───────── ⋅  <img src="https://i.ibb.co/HDGMGJm/473931-D2-BD1-C-4-A09-BCCE-BFA18662-A99-B.gif"/> ⋅ ───────── ⋅⋅ </p>
+<p align="center"> ${{\color{blue}{\texttt{"𝑰𝒏 𝒕𝒉𝒆 𝒒𝒖𝒊𝒆𝒕 𝒔𝒉𝒊𝒎𝒎𝒆𝒓 𝒐𝒇 𝒘𝒉𝒂𝒕 𝒐𝒏𝒄𝒆 𝒘𝒂𝒔,}}}}$ </p>
+<p align="center"> ${{\color{cyan}{\texttt{𝒂 𝒇𝒂𝒎𝒊𝒍𝒊𝒂𝒓 𝒍𝒊𝒈𝒉𝒕 𝒔𝒕𝒊𝒍𝒍 𝒔𝒐𝒇𝒕𝒍𝒚 𝒄𝒂𝒍𝒍𝒔 𝒎𝒆 𝒉𝒐𝒎𝒆."}}}}$ </p>
+<p align="center"> <img src="https://files.catbox.moe/equy07.gif"/> }┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈{ <img src="https://files.catbox.moe/il5535.gif"/> </p>
 
-<p align="center">socials</p>
-<p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://github.com/user-attachments/assets/faa69698-8df2-4e06-b017-36745be72709" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://github.com/user-attachments/assets/0cc8886e-d8c3-45f4-a139-b4ac8b7fea89" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://github.com/user-attachments/assets/7fbca5c1-a8fb-4126-86e7-66c4d35315b9" style=width:4vw;min-height:4px;"/> <a href="https://lumi-luvs-jonesok.straw.page/"><img src="https://github.com/user-attachments/assets/caa82f9e-5966-47da-94bd-4b0334b90922" style=width:4vw;min-height:4px;"/><a href="https://www.xbox.com/en-US/play/user/LumiOceans9715"><img src="https://github.com/user-attachments/assets/a8753c5b-d2ac-4ff9-b786-5726d9f41f12" style=width:4vw;min-height:4px;"/> <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://github.com/user-attachments/assets/0173bd3a-14fa-420b-8bae-ceef204e23ab"style="width: 7vw; min-width: 7px;" />   <a href="https://luminescentoceans.atabook.org/"><img src="https://github.com/user-attachments/assets/b02dc596-9dea-419b-81ab-955e33adc409"style="width: 7vw; min-width: 7px;" /></a>
-   
-<p align="center">　﹒ 　 $\color{#FF7D73}{\textsf{he}}$ / $\color{#FFB073}{\textsf{they}}$ / $\color{#FFDC73}{\textsf{xe}}$ / $\color{#73FFAC}{\textsf{pup}}$ / $\color{#73DCFF}{\textsf{wing}}$ / $\color{#D074FF}{\textsf{ask}}$ $\color{#FFD5D4}{\textsf{　　　6teen　　　}}$ $\color{#FFF4DE}{\textsf{self-suspecting sys}}$
-$\color{#FF829B}{\textsf{iwec at all times}}$ ,, $\color{#FFADC6}{\textsf{I’m very unwell with no way of getting help}}$, $\color{#FFD5D4}{\textsf{please be patient}}$ $\color{white}{\textsf{ ✦ }}$ $\color{#FF829B}{\textsf{I have a hard time reading most fonts.}}$ $\color{#FFADC6}{\textsf{and typing quirks.}}$
-$\color{#FFD5D4}{\textsf{Don't expect me to reply if you don't provide a}}$ $\color{#FFF4DE}{\textsf{translation for your typing quirk upon asking.}}$
-<p align="center">$\color{#59448B}{\textsf{ 　　I don't have a dni, but I own every right to block whoever I want　　  }}$
-<p align="center">$\color{white}{\textsf{ ✦ }}$ 
-$\color{white}{\textsf{ ✦ }}$ 
-$\color{white}{\textsf{ ✦ }}$ 
-$\color{white}{\textsf{ ✦ }}$ 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Rainbows&color=59448B" title="Profile views"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff"/>
+</p>
+<p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://files.catbox.moe/vjqpsk.png"style="width: 10vw; min-width: 10px;" /> <p align="center">
 </p>
 
-<h4 align="left">$\color{#FFD5D4}{\textsf{‎ ‎ ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ artist in several fields, writer, animator, editor}}$<br>   
-$\color{#FFADC6}{\textsf{ ‎ and entry-level HTML-CSS web designer.}}$<br>
-$\color{#59448B}{\textsf{ ‎ (all self-taught)}}$<br>
+<div align="center">
+<table border="2">
+     <tr>
+       <td>
+         <br>
+         <img src="https://files.catbox.moe/bchwwj.png"/> 
+<p align="center"> <kbd>${{\color{blue}{\texttt{𝔻𝕀𝔻}}}}$ ${{\color{cyan}{\texttt{𝕤𝕪𝕤}}}}$  ${{\color{cyan}{\texttt{++}}}}$ ${{\color{blue}{\texttt{𝕞𝕚𝕟𝕠𝕣 𝕓𝕠𝕕𝕚𝕝𝕪}}}}$ //
+  ${{\color{blue}{\texttt{Ocean}}}}$    ${{\color{cyan}{\texttt{or}}}}$    ${{\color{blue}{\texttt{Luminescent}}}}$   ${{\color{cyan}{\texttt{Collectively}}}}$ // ${{\color{blue}{\texttt{They}}}}$ , ${{\color{cyan}{\texttt{xe}}}}$ , ${{\color{blue}{\texttt{Ask}}}}$ \\    
+    
+    
+    
+    
+        
+    
+    
+    
+    
+    
+    
+  
+      
+      
+      
+      
+    ${{\color{blue}{\texttt{Check}}}}$, ${{\color{cyan}{\texttt{Pluralkit}}}}$ ${{\color{blue}{\texttt{for front status.}}}}$ ${{\color{cyan}{\texttt{(May be outdated at times due to memory)}}}}$
+    
+    
+        
+   
+    
+  ${{\color{cyan}{\texttt{artist in several fields, writer, animator, editor and entry-level HTML-CSS web developer/designer. (all self-taught)}}}}$ // ${{\color{blue}{\texttt{highly suspected MDD + C-PTSD}}}}$
+  <br>
+<hr>
 
-<h4 align="right"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=false&mode=dark&bar_color=FF829B&bar_color_cover=true" style="width: 20vw;min-width: 20px;" title="currently playing on spotify"/> </a>
+<div align="center">
 
-<img src="https://github.com/user-attachments/assets/98679319-f4cf-4a3a-8958-b5f918ea0231" width="47%" align="left"/>
+We want to share this openly from the start to make future interactions with new friends less awkward.
 
-<h6 align="center">$\color{white}{\textsf{highly suspected}}$ $\color{#FF7D73}{\textsf{C-PTSD}}$, $\color{#FFB073}{\textsf{AuDHD}}$, $\color{#FFDC73}{\textsf{CMVTD (motor),}}$ $\color{white}{\textsf{and}}$ $\color{#73FFAC}{\textsf{DID}}$<br>
-$\color{white}{\textsf{we also get severely paranoid}}$<br>
-$\color{white}{\textsf{please be cautious}}$<br>
-$\color{#FF829B}{\textsf{we are in no position to get diagnosed with anything}}$<br>
-$\color{#FF829B}{\textsf{due to our living conditions}}$ $\color{#FFADC6}{\textsf{(medically neglectful parents)}}$</h6>
+Due to our disorder, we frequently struggle with poor memory, mild emotional instability, and more. On top of this we still live with our abusers. Therefore, we ask that you always approach us with caution and care.
 
-<img src="https://github.com/user-attachments/assets/218d9eab-882d-4402-9480-a41159bf7c76" style="width:24vw;min-height:24px;"/>
+Please do not refer to our 'fictives' as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
 
-$\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ INTERESTS }}$ 
+   ${{\color{blue}{\texttt{┆ ⤿ 💌 ⌗ }}}}$ ``Endogenic systems are on thin ice.`` This includes almost everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc.  While we understand why some might believe they are an endogenic system, ``please approach us with caution.`` Claiming to be endogenic for personal gain is ``not something we condone.`` The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is **still ongoing**. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based. .ᐟ. </div>
+
+  &nbsp;</kbd>
+
+  <img src="https://files.catbox.moe/noqhlt.png"/>  
+  <p align="center"> <kbd>${{\color{blue}{\texttt{Transformers}}}}$ ${{\color{cyan}{\texttt{Minecraft Story Mode}}}}$ ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ ${{\color{cyan}{\texttt{Bugs}}}}$ ${{\color{blue}{\texttt{Wings}}}}$ ${{\color{cyan}{\texttt{Xbox 360}}}}$ ${{\color{blue}{\texttt{Music}}}}$ ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ ${{\color{cyan}{\texttt{Halo}}}}$ ${{\color{blue}{\texttt{The Electric State}}}}$ ${{\color{cyan}{\texttt{The Summer Hikaru Died}}}}$
+            <br>
+<hr>
+  &nbsp;</kbd>
+</p>
+   </div>
   
-<h4 align="right">${{\color{#FF7D73}{\texttt{Fortnite}}}}$ , ${{\color{#FFB073}{\texttt{Minecraft Story Mode}}}}$ , ${{\color{#FFDC73}{\texttt{Transformers}}}}$ , ${{\color{#73FFAC}{\texttt{Unorthrodox Accounting}}}}$ , ${{\color{#73DCFF}{\texttt{Bugs}}}}$ , ${{\color{#D074FF}{\texttt{Wings}}}}$ , ${{\color{#FF7D73}{\texttt{Xbox 360}}}}$ , ${{\color{#FFB073}{\texttt{Music}}}}$ , ${{\color{#FFDC73}{\texttt{Roblox ARGs}}}}$ , ${{\color{#73FFAC}{\texttt{Minecraft ARGs}}}}$ , ${{\color{#73DCFF}{\texttt{Team Fortress 2}}}}$ , ${{\color{#D074FF}{\texttt{LEGO DreamzZZ}}}}$ , ${{\color{#FF7D73}{\texttt{LEGO Ninjago}}}}$ , ${{\color{#FFB073}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ , ${{\color{#FFDC73}{\texttt{Osmosis Jones}}}}$ , ${{\color{#73FFAC}{\texttt{Viva Piñata (2006/OG)}}}}$ , ${{\color{#73DCFF}{\texttt{Halo}}}}$ , ${{\color{#D074FF}{\texttt{The Electric State}}}}$ , ${{\color{#FF7D73}{\texttt{Lord of the Rings}}}}$ , ${{\color{#FFB073}{\texttt{Pixels (2015 Film)}}}}$ ${{\color{#FFDC73}{\texttt{A.X.L (2018 Film)}}}}$ ${{\color{#73FFAC}{\texttt{Phighting!}}}}$ </div> </h4>
-<div align="center">
-<table>
-<tr>
-<td width="30%">
- <p align="center">
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=34eeff&bar_color_cover=false" 
+     width="550" 
+     height="150" /> </p>
 
+<p align="center">
+whats currently playing on spotify
 </p>
 
-<details>
-<summary>⠀ ⠀ ⠀sum boundaries  ⠀</summary> 
-
-
-
-- - -
-
-<div align="center">
-   
-I can't say this enough, please please PLEASE do not copy or take inspiration from me. You may ask to take inspiration, but you may not copy anything whatsoever. If i say no when you ask, don't just go ahead and do it. I cannot explain how much this infuriates me as someone who has been copied for their creativity and work for over 9 years.
-
-Because our tics mainly involve repetitive movements in the neck, shoulders, and chest, they can become physically painful at times. Please be patient.<br>
-   
-I an uncomfortable with rpf/real person fiction yumes. I don't want to, nor will I interact with rpf content / yumes. You will be blocked.<br>
-
-Please do not refer to our ’fictives’ as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.<br>
-
-Endogenic systems are on VERY thin ice. This includes everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc. While we understand why some might believe they are an endogenic system, please approach us with caution. Claiming to be endogenic for personal gain is not something we condone. The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is still ongoing. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based.<br>
-
-Darkshippers, the ones I see around the protree in Pony Town are mostly adults. The fact you're an adult and shipping children with adults or animals with people is fucking disgusting and I will never condone it whatsoever. It's sad that I, a minor, know it's wrong. If you have a paraphilia keep it to yourself and seek help if you can, don't put it out on the fucking internet, it's common sense. Don't interact with me at all. You will be blocked and reported.
-Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or whatever the fuck you all have going on. I've had nothing but bad experiences with Radqueers. Stop faking disorders and pretending to be a different race, etc. The only Radqueers I'll accept are non-harmful ones.
-</table> </br>
-
-<img src="https://github.com/user-attachments/assets/218d9eab-882d-4402-9480-a41159bf7c76" style="width:28vw;min-height:28px;"/>
-
-<p align="center"> 　﹕　Jonesy ${{\color{#FFADC6}{\texttt{♡}}}}$ Jones ${{\color{#FFADC6}{\texttt{yume}}}}$ ( Fortnite , Romantic , Sharing )　.ㅤㅤ　Master Chief ${{\color{#FFD5D4}{\texttt{yume}}}}$ ( Halo , Familial , Sharing )　﹕　 </p>
-
- <p align="center"> <img src="https://github.com/user-attachments/assets/0afa43c5-a8df-4bb5-9701-ae312addaa76" style="width:8vw;min-height:8px; title="currently playing on spotify" /> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://github.com/user-attachments/assets/6277e0fa-25d5-4afd-96e7-f4615f2cf6ba" style="width:8vw;min-height:8px;"/>
-
-
----
-
- <div align="center">
-<table>
-<tr>
-<td width="30%">
- <p align="center">
-
-</p>
-
-<details>
-<summary>⠀ ⠀ ⠀sona art ! ! ! ! !  ⠀</summary> 
-
-
-
-- - -
-
-
- <div align="center">
-<table>
-<tr>
-<td width="30%">
- <p align="center">
-
-</p>
-
-<details>
-<summary>⠀ ⠀ ⠀reference sheet  ⠀</summary> 
-
-
-
-- - -
-
-<div align="center">
-<img width="450" height="340" alt="sona ref sheet" src="https://github.com/user-attachments/assets/23d3252e-d592-4b08-9cf5-951901a9248b" />
-</table>
-<div align="center">
-   
-If you have any art just put it through <a href="https://postimages.org/">Postimg.cc</a>, <a href="https://catbox.moe/">catbox</a>, <a href="https://filegarden.com/">File Garden</a> ***or*** any other Image Hosting site you use, copy that image link, and send it to me in my AtaBook. ***or*** DM it to me on TikTok!! IF you want credited give me a user or name to credit you by.<br> If you're sending it through Strawpage, just write down your credits on your drawing!
-
-<img src="https://github.com/user-attachments/assets/83cef92c-d05f-4062-9f12-3a4de07d9298" style="width: 8vw; min-width: 8px;"/> <img src="https://github.com/user-attachments/assets/5f0b0130-db9e-499b-aad2-6bc1c9ef5d59" style="width: 8vw; min-width: 8px;"/>
-</table>
+NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL NELL I LOVE NELL  ILOVE NELL NELL NLLNLLE BJHQWEJOQIWUHSAYUAYA AYNENLE  NELL NELL NELL ENENELNEEN NELMNEL ENELL NELL NELL NELL :eyes:

@@ -7,7 +7,7 @@
 <p align="center">socials</p>
 <p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://github.com/user-attachments/assets/faa69698-8df2-4e06-b017-36745be72709" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://github.com/user-attachments/assets/0cc8886e-d8c3-45f4-a139-b4ac8b7fea89" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://github.com/user-attachments/assets/7fbca5c1-a8fb-4126-86e7-66c4d35315b9" style=width:4vw;min-height:4px;"/> <a href="https://lumi-luvs-jonesok.straw.page/"><img src="https://github.com/user-attachments/assets/caa82f9e-5966-47da-94bd-4b0334b90922" style=width:4vw;min-height:4px;"/><a href="https://www.xbox.com/en-US/play/user/LumiOceans9715"><img src="https://github.com/user-attachments/assets/a8753c5b-d2ac-4ff9-b786-5726d9f41f12" style=width:4vw;min-height:4px;"/> <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://github.com/user-attachments/assets/0173bd3a-14fa-420b-8bae-ceef204e23ab"style="width: 7vw; min-width: 7px;" />   <a href="https://luminescentoceans.atabook.org/"><img src="https://github.com/user-attachments/assets/b02dc596-9dea-419b-81ab-955e33adc409"style="width: 7vw; min-width: 7px;" /></a>
    
-<p align="center">　﹒ 　 $\color{#FF7D73}{\textsf{he}}$ / $\color{#FFB073}{\textsf{they}}$ / $\color{#FFDC73}{\textsf{xe}}$ / $\color{#73FFAC}{\textsf{pup}}$ / $\color{#73DCFF}{\textsf{wing}}$ / $\color{#D074FF}{\textsf{ask}}$ $\color{#FFD5D4}{\textsf{　　﹒　　6teen　　୧　　₊　　}}$ $\color{#FFF4DE}{\textsf{self-suspecting sys}}$
+<p align="center">　﹒ 　 $\color{#FF7D73}{\textsf{he}}$ / $\color{#FFB073}{\textsf{they}}$ / $\color{#FFDC73}{\textsf{xe}}$ / $\color{#73FFAC}{\textsf{pup}}$ / $\color{#73DCFF}{\textsf{wing}}$ / $\color{#D074FF}{\textsf{ask}}$ $\color{#FFD5D4}{\textsf{　　　6teen　　　}}$ $\color{#FFF4DE}{\textsf{self-suspecting sys}}$
 $\color{#FF829B}{\textsf{iwec at all times}}$ ,, $\color{#FFADC6}{\textsf{I’m very unwell with no way of getting help}}$, $\color{#FFD5D4}{\textsf{please be patient}}$ $\color{white}{\textsf{ ✦ }}$ $\color{#FF829B}{\textsf{I have a hard time reading most fonts.}}$ $\color{#FFADC6}{\textsf{and typing quirks.}}$
 $\color{#FFD5D4}{\textsf{Don't expect me to reply if you don't provide a}}$ $\color{#FFF4DE}{\textsf{translation for your typing quirk upon asking.}}$
 <p align="center">$\color{#59448B}{\textsf{ 　　I don't have a dni, but I own every right to block whoever I want　　  }}$
@@ -32,7 +32,7 @@ $\color{white}{\textsf{please be cautious}}$<br>
 $\color{#FF829B}{\textsf{we are in no position to get diagnosed with anything}}$<br>
 $\color{#FF829B}{\textsf{due to our living conditions}}$ $\color{#FFADC6}{\textsf{(medically neglectful parents)}}$</h6>
 
-<img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:24vw;min-height:24px;"/>
+<img src="https://github.com/user-attachments/assets/218d9eab-882d-4402-9480-a41159bf7c76" style="width:24vw;min-height:24px;"/>
 
 $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ INTERESTS }}$ 
   
@@ -53,6 +53,9 @@ $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎
 - - -
 
 <div align="center">
+   
+I can't say this enough, please please PLEASE do not copy or take inspiration from me. You may ask to take inspiration, but you may not copy anything whatsoever. If i say no when you ask, don't just go ahead and do it. I cannot explain how much this infuriates me as someone who has been copied for their creativity and work for over 9 years.
+
 Because our tics mainly involve repetitive movements in the neck, shoulders, and chest, they can become physically painful at times. Please be patient.<br>
    
 I an uncomfortable with rpf/real person fiction yumes. I don't want to, nor will I interact with rpf content / yumes. You will be blocked.<br>
@@ -65,7 +68,7 @@ Darkshippers, the ones I see around the protree in Pony Town are mostly adults. 
 Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or whatever the fuck you all have going on. I've had nothing but bad experiences with Radqueers. Stop faking disorders and pretending to be a different race, etc. The only Radqueers I'll accept are non-harmful ones.
 </table> </br>
 
-<img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:28vw;min-height:28px;"/>
+<img src="https://github.com/user-attachments/assets/218d9eab-882d-4402-9480-a41159bf7c76" style="width:28vw;min-height:28px;"/>
 
 <p align="center"> 　﹕　Jonesy ${{\color{#FFADC6}{\texttt{♡}}}}$ Jones ${{\color{#FFADC6}{\texttt{yume}}}}$ ( Fortnite , Romantic , Sharing )　.ㅤㅤ　Master Chief ${{\color{#FFD5D4}{\texttt{yume}}}}$ ( Halo , Familial , Sharing )　﹕　 </p>
 
@@ -83,17 +86,34 @@ Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or wha
 </p>
 
 <details>
-<summary>⠀ ⠀ ⠀stamps and blinkies  ⠀</summary> 
+<summary>⠀ ⠀ ⠀sona art ! ! ! ! !  ⠀</summary> 
+
+
+
+- - -
+
+
+ <div align="center">
+<table>
+<tr>
+<td width="30%">
+ <p align="center">
+
+</p>
+
+<details>
+<summary>⠀ ⠀ ⠀reference sheet  ⠀</summary> 
 
 
 
 - - -
 
 <div align="center">
+<img width="450" height="340" alt="sona ref sheet" src="https://github.com/user-attachments/assets/23d3252e-d592-4b08-9cf5-951901a9248b" />
+</table>
+<div align="center">
+   
+If you have any art just put it through <a href="https://postimages.org/">Postimg.cc</a>, <a href="https://catbox.moe/">catbox</a>, <a href="https://filegarden.com/">File Garden</a> ***or*** any other Image Hosting site you use, copy that image link, and send it to me in my AtaBook. ***or*** DM it to me on TikTok!! IF you want credited give me a user or name to credit you by.<br> If you're sending it through Strawpage, just write down your credits on your drawing!
 
-<img src="https://i.postimg.cc/RCHPGnbP/1000022300.webp" style="width:11vw;min-height:11px;"/> <img src="https://i.postimg.cc/TP10byDQ/1000022301.gif" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/0N0WGgth/1000022299.png" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/CMcQRVt9/1000022335.png" style="width:11vw;min-height:11px;"/> <img src="https://i.postimg.cc/C1L40RFG/1000022336.gif" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/CKwGCRfV/1000022337.webp" style="width:11vw;min-height:11px;"/> <img src="https://i.postimg.cc/WpdHqyv0/1000022338.webp" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/J7XQLC8y/1000022339.gif" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/jjCz3GvJ/1000022340.gif" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/7ZhGqS7r/1000022341.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/yxnxHN80/1000022342.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/FFGH17h3/1000022343.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/d00zHtzj/1000022359.webp" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/fyQqNwrL/1000022360.webp" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/CLYrrx8r/1000022361.gif" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/SRK2j95T/1000022348.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/BZwtMXkM/1000022349.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/x8WfYbVW/1000022350.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/g2yzFJtx/1000022351.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/cHC0ncxs/1000022352.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/RZm3n2jq/1000022353.webp" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/sxSXMJmB/1000022354.webp" style="width:10vw;min-height:10px;"/> <img src="https://i.postimg.cc/9FhXxZ1p/1000022355.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/28GY2J1S/1000022356.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/MZbJp4bR/1000022358.webp" style="width:9vw;min-height:9px;"/>  <img src="https://i.postimg.cc/mgkvVrxS/1000022357.webp" style="width:9vw;min-height:9px;"/> <img src="https://i.postimg.cc/xdHFFJ6s/1000022344.png" style="width:6vw;min-height:6px;"/> 
-
----
-
-<img src="https://i.postimg.cc/qqZL741W/1000022298.webp" style="width:14vw;min-height:14px;"/> <img src="https://i.postimg.cc/T3b9R8nY/1000022347.gif" style="width:14vw;min-height:14px;"/>
+<img src="https://github.com/user-attachments/assets/83cef92c-d05f-4062-9f12-3a4de07d9298" style="width: 8vw; min-width: 8px;"/> <img src="https://github.com/user-attachments/assets/5f0b0130-db9e-499b-aad2-6bc1c9ef5d59" style="width: 8vw; min-width: 8px;"/>
 </table>

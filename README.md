@@ -38,7 +38,7 @@ $\color{blue}{\textsf{due to our living conditions (medically neglectful parents
 
 $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎   ‎ ‎ INTERESTS }}$ 
   
-<h4 align="right">${{\color{cyan}{\texttt{Fortnite}}}}$ , ${{\color{blue}{\texttt{Minecraft Story Mode}}}}$ , ${{\color{cyan}{\texttt{Transformers}}}}$ , ${{\color{blue}{\texttt{Unorthrodox Accounting}}}}$ , ${{\color{cyan}{\texttt{Bugs}}}}$ , ${{\color{blue}{\texttt{Wings}}}}$ , ${{\color{cyan}{\texttt{Xbox 360}}}}$ , ${{\color{blue}{\texttt{Music}}}}$ , ${{\color{cyan}{\texttt{Roblox ARGs}}}}$ , ${{\color{blue}{\texttt{Minecraft ARGs}}}}$ , ${{\color{cyan}{\texttt{Team Fortress 2}}}}$ , ${{\color{blue}{\texttt{LEGO DreamzZZ}}}}$ , ${{\color{cyan}{\texttt{LEGO Ninjago}}}}$ , ${{\color{blue}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ , ${{\color{cyan}{\texttt{Osmosis Jones}}}}$ , ${{\color{blue}{\texttt{Viva Piñata (2006/OG)}}}}$ , ${{\color{cyan}{\texttt{Halo}}}}$ , ${{\color{blue}{\texttt{The Electric State}}}}$ , ${{\color{cyan}{\texttt{Lord of the Rings}}}}$ , ${{\color{blue}{\texttt{Pixels (2015 Film)}}}}$ ${{\color{cyan}{\texttt{A.X.L (2018 Film)}}}}$ ${{\color{blue}{\texttt{Phighting!}}}}$ </div> </h4>
+<h4 align="right">${{\color{#FF7D73}{\texttt{Fortnite}}}}$ , ${{\color{#FFB073}{\texttt{Minecraft Story Mode}}}}$ , ${{\color{#FFDC73}{\texttt{Transformers}}}}$ , ${{\color{#73FFAC}{\texttt{Unorthrodox Accounting}}}}$ , ${{\color{#73DCFF}{\texttt{Bugs}}}}$ , ${{\color{#D074FF}{\texttt{Wings}}}}$ , ${{\color{#FF7D73}{\texttt{Xbox 360}}}}$ , ${{\color{#FFB073}{\texttt{Music}}}}$ , ${{\color{#FFDC73}{\texttt{Roblox ARGs}}}}$ , ${{\color{#73FFAC}{\texttt{Minecraft ARGs}}}}$ , ${{\color{#73DCFF}{\texttt{Team Fortress 2}}}}$ , ${{\color{#D074FF}{\texttt{LEGO DreamzZZ}}}}$ , ${{\color{#FF7D73}{\texttt{LEGO Ninjago}}}}$ , ${{\color{#FFB073}{\texttt{Kipo and the Age of Wonderbeasts}}}}$ , ${{\color{#FFDC73}{\texttt{Osmosis Jones}}}}$ , ${{\color{#73FFAC}{\texttt{Viva Piñata (2006/OG)}}}}$ , ${{\color{#73DCFF}{\texttt{Halo}}}}$ , ${{\color{#D074FF}{\texttt{The Electric State}}}}$ , ${{\color{#FF7D73}{\texttt{Lord of the Rings}}}}$ , ${{\color{#FFB073}{\texttt{Pixels (2015 Film)}}}}$ ${{\color{#FFDC73}{\texttt{A.X.L (2018 Film)}}}}$ ${{\color{#73FFAC}{\texttt{Phighting!}}}}$ </div> </h4>
 <div align="center">
 <table>
 <tr>
@@ -55,14 +55,13 @@ $\color{white}{\textsf{ ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ ‎  ‎
 - - -
 
 <div align="center">
-Because our tics mainly involve repetitive movements in the neck, shoulders, and chest, they can become physically painful at times. Please be patient.
+Because our tics mainly involve repetitive movements in the neck, shoulders, and chest, they can become physically painful at times. Please be patient.<br>
+   
+I an uncomfortable with rpf/real person fiction yumes. I don't want to, nor will I interact with rpf content / yumes. You will be blocked.<br>
 
-I an uncomfortable with rpf/real person fiction yumes. I don't want to, nor will I interact with rpf content / yumes. You will be blocked.
+Please do not refer to our ’fictives’ as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.<br>
 
-Please do not refer to our ’fictives’ as fictives. Please call us introjects. The term, fictive, for us is uncomfortable and we refuse to use endogenic terms, so with that please correct us if we ever do use them.
-
-Endogenic systems are on thin ice. This includes everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc. While we understand why some might believe they are an endogenic system, please approach us with caution. Claiming to be endogenic for personal gain is not something we condone. The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is still ongoing. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based.
-
+Endogenic systems are on VERY thin ice. This includes everything under the Endogenic umbrella. Such as Parogenic, Willogenic, Soulbonds, 'system hoppers', Tulpagenic, and etc. While we understand why some might believe they are an endogenic system, please approach us with caution. Claiming to be endogenic for personal gain is not something we condone. The main reason why we do not want you interacting with us is because we went through extreme prologned childhood trauma that is still ongoing. We did not just form a system because we wanted to. This is hell. And the disorder in itslef is trauma-based.<br>
 
 Darkshippers, the ones I see around the protree in Pony Town are mostly adults. The fact you're an adult and shipping children with adults or animals with people is fucking disgusting and I will never condone it whatsoever. It's sad that I, a minor, know it's wrong. If you have a paraphilia keep it to yourself and seek help if you can, don't put it out on the fucking internet, it's common sense. Don't interact with me at all. You will be blocked and reported.
 Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or whatever the fuck you all have going on. I've had nothing but bad experiences with Radqueers. Stop faking disorders and pretending to be a different race, etc. The only Radqueers I'll accept are non-harmful ones.

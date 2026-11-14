@@ -1,6 +1,6 @@
 <!-- sorry for how sloppy the code is, i'm still learning html-css and barely stepping into javascript -->
 
-<p align="center">⚠️  ${{\color{yellow}{\texttt{I did this on a 32'' ( 2 foot and 8 inch ) monitor, forgive me if anything looks weird on devices with smaller screens.}}}}$ ⚠️</p>
+<p align="center">⚠️  ${{\color{yellow}{\texttt{I did this on a 32''}}}}$ ${{\color{yellow}{\texttt{( 2 foot and 8 inch ) monitor, forgive me if}}}}$ ${{\color{yellow}{\texttt{anything looks weird on devices with smaller screens.}}}}$ ⚠️</p>
 
 <p align="center"><img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:28vw;min-height:28px;"/></p>
 
@@ -8,10 +8,10 @@
 <p align="center"> <a href="https://www.tiktok.com/@luminescent.oceans?_r=1&_t=ZP-95dhlRHpY58"><img src="https://i.postimg.cc/76Bw3zKv/image.png" style="width:4vw;min-height:4px;"/> <a href="https://pin.it/7KTfIrCAP"><img src="https://i.postimg.cc/9MNHRhfy/image.png" style="width:4vw;min-height:4px;"/> <a href="https://archiveofourown.org/users/luminescentoceans/profile"><img src="https://i.postimg.cc/T1V8kW91/image.png" style=width:4vw;min-height:4px;"/> <a href="https://trackify.am/user/2018546"><img src="https://i.postimg.cc/d1c45NSS/image.png" style=width:4vw;min-height:4px;"/> <a href="https://lumi-luvs-jonesok.straw.page/"><img src="https://i.postimg.cc/8PcBmVzT/image.png" style=width:4vw;min-height:4px;"/><a href="https://www.xbox.com/en-US/play/user/LumiOceans9715"><img src="https://i.postimg.cc/TwkpGYHh/Untitled458-20260604064301.png" style=width:4vw;min-height:4px;"/> <p align="center"> <a href="https://pluralkit.xyz/f/gkrvpo"><img src="https://i.postimg.cc/V6Qh0kqx/image.png"style="width: 7vw; min-width: 7px;" />   <a href="https://luminescent-oceans.carrd.co/#"><img src="https://i.postimg.cc/cJY9WGpz/image.png"style="width: 7vw; min-width: 7px;" />
 <a href="https://luminescentoceans.atabook.org/">SIGN MY ATABOOK! (no button for it yet + returning after 8 months)</a></p>
    
-<p align="center">　﹒ 　 $\color{#FF7D73}{\textsf{he}}$ / $\color{#FFB073}{\textsf{they}}$ / $\color{#FFDC73}{\textsf{xe}}$ / $\color{#73FFAC}{\textsf{pup}}$ / $\color{#73DCFF}{\textsf{wing}}$ / $\color{#D074FF}{\textsf{ask}}$ $\color{cyan}{\textsf{　　﹒　　6teen　　୧　　₊　　}}$ $\color{blue}{\textsf{self-suspecting sys}}$
-$\color{cyan}{\textsf{ iwec at all times ,, I’m very unwell with no way of getting help, please be patient}}$ $\color{white}{\textsf{ ✦ }}$ $\color{blue}{\textsf{I have a hard time reading most fonts and typing quirks.}}$
-$\color{blue}{\textsf{Don't expect me to reply if you don't provide a translation for your typing quirk upon asking.}}$
-<p align="center">$\color{cyan}{\textsf{ 　　I don't have a dni, but I own every right to block whoever I want　　  }}$
+<p align="center">　﹒ 　 $\color{#FF7D73}{\textsf{he}}$ / $\color{#FFB073}{\textsf{they}}$ / $\color{#FFDC73}{\textsf{xe}}$ / $\color{#73FFAC}{\textsf{pup}}$ / $\color{#73DCFF}{\textsf{wing}}$ / $\color{#D074FF}{\textsf{ask}}$ $\color{#FFD5D4}{\textsf{　　﹒　　6teen　　୧　　₊　　}}$ $\color{#FFF4DE}{\textsf{self-suspecting sys}}$
+$\color{#FF829B}{\textsf{iwec at all times}}$ ,, $\color{#FFADC6}{\textsf{I’m very unwell with no way of getting help}}$, $\color{#FFD5D4}{\textsf{please be patient}}$ $\color{white}{\textsf{ ✦ }}$ $\color{#FF829B}{\textsf{I have a hard time reading most fonts.}}$ $\color{#FFADC6}{\textsf{and typing quirks.}}$
+$\color{#FFD5D4}{\textsf{Don't expect me to reply if you don't provide a}}$ $\color{#FFF4DE}{\textsf{translation for your typing quirk upon asking.}}$
+<p align="center">$\color{#59448B}{\textsf{ 　　I don't have a dni, but I own every right to block whoever I want　　  }}$
 <p align="center">$\color{white}{\textsf{ ✦ }}$ 
 $\color{white}{\textsf{ ✦ }}$ 
 $\color{white}{\textsf{ ✦ }}$ 
@@ -19,9 +19,9 @@ $\color{white}{\textsf{ ✦ }}$
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff" title="Profile views"/>
 </p>
 
-<h4 align="left">$\color{blue}{\textsf{‎ ‎ ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ artist in several fields, writer, animator, editor}}$<br>   
-$\color{cyan}{\textsf{ ‎ and entry-level HTML-CSS web designer.}}$<br>
-$\color{blue}{\textsf{ ‎ (all self-taught)}}$<br>
+<h4 align="left">$\color{#FFD5D4}{\textsf{‎ ‎ ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ artist in several fields, writer, animator, editor}}$<br>   
+$\color{#FFADC6}{\textsf{ ‎ and entry-level HTML-CSS web designer.}}$<br>
+$\color{#59448B}{\textsf{ ‎ (all self-taught)}}$<br>
 
 <h4 align="right"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=00d5ff&bar_color_cover=true" style="width: 20vw;min-width: 20px;" title="currently playing on spotify"/> </a>
 

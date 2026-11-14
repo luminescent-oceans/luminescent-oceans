@@ -16,23 +16,22 @@ $\color{#FFD5D4}{\textsf{Don't expect me to reply if you don't provide a}}$ $\co
 $\color{white}{\textsf{ ✦ }}$ 
 $\color{white}{\textsf{ ✦ }}$ 
 $\color{white}{\textsf{ ✦ }}$ 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Phytoplankton&color=34eeff" title="Profile views"/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=LuminescentOceansSys&label=Rainbows&color=59448B" title="Profile views"/>
 </p>
 
 <h4 align="left">$\color{#FFD5D4}{\textsf{‎ ‎ ‎  ‎  ‎ ‎  ‎ ‎  ‎ ‎  ‎ ‎ ‎ artist in several fields, writer, animator, editor}}$<br>   
 $\color{#FFADC6}{\textsf{ ‎ and entry-level HTML-CSS web designer.}}$<br>
 $\color{#59448B}{\textsf{ ‎ (all self-taught)}}$<br>
 
-<h4 align="right"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=00d5ff&bar_color_cover=true" style="width: 20vw;min-width: 20px;" title="currently playing on spotify"/> </a>
+<h4 align="right"> <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31t6iahnmjtxuosnnwfe3dhwkcsa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=false&mode=dark&bar_color=FF829B&bar_color_cover=true" style="width: 20vw;min-width: 20px;" title="currently playing on spotify"/> </a>
 
    <img src="https://i.postimg.cc/Y2GK10Hd/1000022365.png" width="47%" align="left"/>
 
-<h6 align="center">$\color{white}{\textsf{highly suspected C-PTSD, AuDHD, CMVTD (motor),}}$<br>
-$\color{white}{\textsf{and DID}}$<br>
+<h6 align="center">$\color{white}{\textsf{highly suspected}}$ $\color{#FF7D73}{\textsf{C-PTSD}}$, $\color{#FFB073}{\textsf{AuDHD}}$, $\color{#FFDC73}{\textsf{CMVTD (motor),}}$ $\color{white}{\textsf{and}}$ $\color{#73FFAC}{\textsf{DID}}$<br>
 $\color{white}{\textsf{we also get severely paranoid}}$<br>
 $\color{white}{\textsf{please be cautious}}$<br>
-$\color{blue}{\textsf{we are in no position to get diagnosed with anything}}$<br>
-$\color{blue}{\textsf{due to our living conditions (medically neglectful parents)}}$</h6>
+$\color{#FF829B}{\textsf{we are in no position to get diagnosed with anything}}$<br>
+$\color{#FF829B}{\textsf{due to our living conditions}}$ $\color{#FFADC6}{\textsf{(medically neglectful parents)}}$</h6>
 
 <img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:24vw;min-height:24px;"/>
 
@@ -69,7 +68,7 @@ Same goes for Radqueers. No, youre not TransDID, TransDisabled, TransRace or wha
 
 <img src="https://i.postimg.cc/D0BnRbYh/1000022334.png" style="width:28vw;min-height:28px;"/>
 
-<p align="center"> 　﹕　Jonesy ${{\color{cyan}{\texttt{♡}}}}$ Jones ${{\color{cyan}{\texttt{yume}}}}$ ( Fortnite , Romantic , Sharing )　.ㅤㅤ　Master Chief ${{\color{blue}{\texttt{yume}}}}$ ( Halo , Familial , Sharing )　﹕　 </p>
+<p align="center"> 　﹕　Jonesy ${{\color{#FFADC6}{\texttt{♡}}}}$ Jones ${{\color{#FFADC6}{\texttt{yume}}}}$ ( Fortnite , Romantic , Sharing )　.ㅤㅤ　Master Chief ${{\color{#FFD5D4}{\texttt{yume}}}}$ ( Halo , Familial , Sharing )　﹕　 </p>
 
  <p align="center"> <img src="https://i.postimg.cc/jSfB776Z/1000022323.webp" style="width:8vw;min-height:8px; title="currently playing on spotify" /> ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<img src="https://i.postimg.cc/k5Wrkhj9/1000022326.webp" style="width:8vw;min-height:8px;"/>
 
